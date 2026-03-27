@@ -1,7 +1,7 @@
 const CACHE_NAME = 'gesepoc2025-v1';
 const ASSETS = [
   './',
-  './GesEPOC25_Tratamiento.html',
+  './index.html',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png'

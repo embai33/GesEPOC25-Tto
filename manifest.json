@@ -2,7 +2,7 @@
   "name": "GesEPOC 2025 — Tratamiento",
   "short_name": "GesEPOC 2025",
   "description": "Guía de tratamiento farmacológico de la EPOC estable — GesEPOC 2025",
-  "start_url": "./GesEPOC25_Tratamiento.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a5276",
